@@ -19,6 +19,6 @@ Install my-project with npm
   index.html run chrome
 ```
 ## Project Screenshots:
-![alt text](<Image/Screenshot 2024-05-07 075349.png>)
+![alt text](<image/Screenshot 2024-05-07 075349.png>)
 
-![alt text](<Image/Screenshot 2024-05-07 075404.png>)
+![alt text](<image/Screenshot 2024-05-07 075404.png>)
