@@ -8,7 +8,7 @@ url: https://shop-card-web.netlify.app/
 
 ## 🛠 Installation
 
-Install my-project with npm
+Install my-project
 
 1. To install
 ```bash
